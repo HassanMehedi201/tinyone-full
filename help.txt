@@ -1,0 +1,30 @@
+color ===
+black	#010101
+yellow  #fcdb00
+ash 	#898989
+
+spacing===
+
+xl		lg		md
+top 	80px;
+bottom  100px;
+
+sm
+top 	60px;
+bottom  80px;
+
+col
+top 	50px;
+bottom  70px;
+
+font-size===
+xl			lg			md			sm
+h1 32px
+p
+h2
+
+
+col
+h1 32px
+p
+h2
